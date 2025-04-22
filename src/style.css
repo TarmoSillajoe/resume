@@ -1,1 +1,7 @@
 @import "tailwindcss";
+section {
+  @apply my-8;
+}
+h2 {
+  @apply text-2xl;
+}
